@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Book Form</title>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+          crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+
+
+            <h4>Edit Book Form</h4>
+            <br>
+            <form th:action="@{/book/edit}" th:object="${book}" method="post">
+
+                <input type="hidden" th:field="*{id}" th:value="${book.id}">
+
+                <div class="form-group">
+                    <label class="control-label" for="title"> Title </label>
+                    <input id="title" class="form-control" placeholder="Enter title" th:field="*{title}"
+                           required autofocus="autofocus"/>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label" for="authors"> Authors </label>
+                    <input id="authors" class="form-control" placeholder="Enter Authors" th:field="*{authors}"
+                           required autofocus="autofocus"/>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label" for="pages"> Pages </label>
+                    <input id="pages" class="form-control" placeholder="Enter Number Of Pages" th:field="*{numberOfPages}"
+                           required autofocus="autofocus"/>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label" for="price"> Price </label>
+                    <input id="price" class="form-control" placeholder="Enter price" th:field="*{price}"
+                           required autofocus="autofocus"/>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success">Edit Book</button>
+                </div>
+            </form>
+
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

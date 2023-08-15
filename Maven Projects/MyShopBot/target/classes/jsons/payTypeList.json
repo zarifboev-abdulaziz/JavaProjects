@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Payme",
+    "commissionFee": 1.0,
+    "id": "88a0a7bc-7bf4-4fee-8a0d-1be6ccf5f8e3",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 19,
+        "second": 35,
+        "nano": 182000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 19,
+        "second": 35,
+        "nano": 182000000
+      }
+    }
+  },
+  {
+    "name": "Click",
+    "commissionFee": 0.5,
+    "id": "5d9c4a45-295f-4e9a-bb61-5d1deb43089f",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 19,
+        "second": 35,
+        "nano": 182000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 19,
+        "second": 35,
+        "nano": 182000000
+      }
+    }
+  }
+]

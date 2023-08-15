@@ -1,0 +1,27 @@
+1.UserMenu
+   1.1 log in - done
+-------------------------------------------------
+    1.1.1 Add news -      
+    1.1.2 my news -       
+    1.1.3 read All news - 
+    1.1.4 show balance -   
+    1.1.5 log out          
+    
+   1.2 Register  - done
+-------------------------------------------------
+2.Admin
+  2.1 login - 
+    2.1.3 all news -       
+    2.1.4 rejected news -  
+    2.1.5 confirmed news -
+    2.1.6 show balance     
+    2.1.7 log out          
+    2.1.8 add admin - 
+
+
+  
+  
+
+
+
+            

@@ -1,0 +1,36 @@
+SAVOLLAR
+
+1. http vs https
+2. DI (Dependence Injection) va IoC nima?
+3. Servlet nima?
+4. @Bean vs @Component?
+5. Cookie va Session nima?
+
+
+JAVOBLAR
+
+1.) Http bu protokol bo'lib, request/response yani so'rov va so'rovga mos javob arxitekturasi bo'yicha ishlaydi.
+ Odatda client tarafdan so'rov jonatiladi va serverdan unga mos bo'lgan javob qaytadi. 
+Https ham xuddi http protokoli kabi ishlaydi lekin https ga security ham qo'shilgan bo'ladi. 
+Yani https protokollar shifrlangan holda bo'ladi va bu kuchli xafvsizlikni taminlaydi.
+
+2.) Odatda Java classdan bitta obyekt olish uchun new kalit so'zi orqali olinardi, lekin Inversion of Control (IoC) dasturchilarga boshqacha yechimni taklif qildi.
+Inversion of Control g'oyasi shunday iboratki, u Classning obyektini containerga bir marta yaratadi,  keyinchalik o'sha Classdan yana obyekt olishga to'g'ri kelganda o'sha containerga murojaat qilib Classni olishi mumkin bo'ladi. 
+Dependency Injection bu IoC ning yaqqol namunalaridan biridir. Misol uchun, Bir Class boshqa bir Classga qaram bo'lib qolsa yoki kuchli bo'glanish bo'lsa (tight Coupling) bundan qutulishning yo'li Dependency Injection bo'ladi.
+Qachonki Qaram bo'lgan Classdan bitta obyekt olinmoqchi bo'lsa avtomotik tarzda uning fieldida ishlatilinayotgan Classdan ham obyekt olinardi, buni oldini olish maqsadida Constructor yoki Setterdan Faydalanamiz. 
+
+3.) Servlet bu turli xil web dasturlar (Web Applications) yaratishga mo'ljallangan texnologiya bo'lib,
+ servlet server tarafdan so'rovlarni qabul qilib ularga mos bo'lgan javoblarni dinamiklashgan web sahifalarda (web pages) aks ettiradi.
+Servlet bizga ko'plab interface va classlarni taqdim qiladi. 
+
+4.)@Component annotatsiyasi asosan Classlarni Bean qilishda ishlatiladi, lekin @Bean annotatsiyasi metodlarni bean sifatida ko'rishga ishlatiladi.
+ @Bean annotatsiyasi asosan configuratsiya qilishda ishlatiladi va @Bean ishlatilgan Classda @Configuration  annotatsiyasi ham bo'ladi. 
+@Component annotatsiyasi Configuratsiya qilishda ishlatilmaydi u asosan Oddiy Classlarni bean qilishda qo'llanilandi.
+
+
+5.)  Cookie va Session ikkalasining ham vazifasi deyarli bir xil, yani ular foydalanuvchining malum bir malumotlarini belgilangan vaqt oraligida saqlab turish uchun ishlatiladi. 
+Cookie va Sessionning asosiy farqi Cookie client tarafda saqlanadi, lekin Session server tarafda saqlanadi. 
+Cookie client browserida cache xotirasida vaqtinchalik saqlanib turadi qachonki browser yopilsa cookie ham cache xotiradan o'chib ketadi.
+Foydalanuvchining nozik malumotlarini (sensitive information) Sessionda saqlagan maqul chunki Cookielarni client browseridan tekshirsa bo'ladi va bu xavsizlik jihatdan dasturni reytingini pastga tushiradi.
+
+

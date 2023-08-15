@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Black",
+    "id": "6f5db0e4-4547-4804-949b-783a100381b5",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 43,
+        "second": 17,
+        "nano": 537000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 43,
+        "second": 17,
+        "nano": 537000000
+      }
+    }
+  },
+  {
+    "name": "Blue",
+    "id": "a72ef8d3-2a6f-4d99-a7b1-61ef43285093",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 43,
+        "second": 17,
+        "nano": 537000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 43,
+        "second": 17,
+        "nano": 537000000
+      }
+    }
+  },
+  {
+    "name": "Dark blue",
+    "id": "753de52f-0592-47bc-9192-55668117f364",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 43,
+        "second": 17,
+        "nano": 537000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 43,
+        "second": 17,
+        "nano": 537000000
+      }
+    }
+  },
+  {
+    "name": "Red",
+    "id": "f4b4f160-191d-439a-9e01-2ebb16df25bb",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 43,
+        "second": 17,
+        "nano": 537000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 43,
+        "second": 17,
+        "nano": 537000000
+      }
+    }
+  }
+]

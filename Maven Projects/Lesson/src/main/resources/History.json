@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "clientId" : 10,
+    "clientName" : "Aziz",
+    "clothName" : "Sweater",
+    "clothQuantity" : 1,
+    "clothPrice" : 10000,
+    "payTypeName" : "Payme",
+    "localDate" : "12.12.2020"
+  }
+]

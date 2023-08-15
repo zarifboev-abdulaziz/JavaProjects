@@ -1,0 +1,2 @@
+Transaction{id=9368, clientId=11, clientName='Asilbek', clothName='Shapka', clothQuantity=12, clothPrice=16000.0, payTypeName='Click', localDate=2021-12-03T08:36:53.939}
+Transaction{id=6273, clientId=11, clientName='Asilbek', clothName='Shapka', clothQuantity=1, clothPrice=16000.0, payTypeName='Click', localDate=2021-12-03T08:37:21.685}

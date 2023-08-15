@@ -1,0 +1,258 @@
+[
+  {
+    "name": "T-Shirt",
+    "productCode": 1899,
+    "color": {
+      "name": "Black",
+      "id": "905d96de-30d1-4a16-aafb-f85790d77898",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        },
+        "time": {
+          "hour": 10,
+          "minute": 2,
+          "second": 11,
+          "nano": 343000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        },
+        "time": {
+          "hour": 10,
+          "minute": 2,
+          "second": 11,
+          "nano": 343000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 30000.0,
+    "discount": 0.0,
+    "id": "50f5bd97-e17f-41f8-badf-89b9c406ba0f",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    }
+  },
+  {
+    "name": "T-Shirt (red)",
+    "productCode": 6258,
+    "color": {
+      "name": "Black",
+      "id": "905d96de-30d1-4a16-aafb-f85790d77898",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        },
+        "time": {
+          "hour": 10,
+          "minute": 2,
+          "second": 11,
+          "nano": 343000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        },
+        "time": {
+          "hour": 10,
+          "minute": 2,
+          "second": 11,
+          "nano": 343000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 60000.0,
+    "discount": 5.0,
+    "id": "99ba0191-fcc3-49ed-ac92-3ba537d1a773",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    }
+  },
+  {
+    "name": "Cap2",
+    "productCode": 3770,
+    "color": {
+      "name": "Green",
+      "id": "b727e887-eb74-4afd-8193-7ebe38081809",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 14
+        },
+        "time": {
+          "hour": 8,
+          "minute": 19,
+          "second": 26,
+          "nano": 653000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 14
+        },
+        "time": {
+          "hour": 8,
+          "minute": 19,
+          "second": 26,
+          "nano": 653000000
+        }
+      }
+    },
+    "size": "M",
+    "price": 20000.0,
+    "discount": 10.0,
+    "id": "7cb9d4a3-1d68-463d-bf18-c7650d51ffff",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    }
+  },
+  {
+    "name": "Sweater",
+    "productCode": 8461,
+    "color": {
+      "name": "Green",
+      "id": "33223b3c-cbe2-49fc-afc3-a99dc9fcd0ba",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 13
+        },
+        "time": {
+          "hour": 19,
+          "minute": 12,
+          "second": 36,
+          "nano": 652000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 13
+        },
+        "time": {
+          "hour": 19,
+          "minute": 12,
+          "second": 36,
+          "nano": 652000000
+        }
+      }
+    },
+    "size": "M",
+    "price": 45000.0,
+    "discount": 10.0,
+    "id": "e2e53035-9d93-4828-a43f-ff7ca7effcb7",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 13
+      },
+      "time": {
+        "hour": 19,
+        "minute": 12,
+        "second": 36,
+        "nano": 652000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 13
+      },
+      "time": {
+        "hour": 19,
+        "minute": 12,
+        "second": 36,
+        "nano": 652000000
+      }
+    }
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "name": "T-Shirt",
+    "productCode": 1899,
+    "color": {
+      "name": "Black",
+      "id": "905d96de-30d1-4a16-aafb-f85790d77898",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        },
+        "time": {
+          "hour": 10,
+          "minute": 2,
+          "second": 11,
+          "nano": 343000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        },
+        "time": {
+          "hour": 10,
+          "minute": 2,
+          "second": 11,
+          "nano": 343000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 30000.0,
+    "discount": 0.0,
+    "imgUrl": "src/main/resources/photos/T-ShirtBlack.png",
+    "id": "50f5bd97-e17f-41f8-badf-89b9c406ba0f",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    }
+  },
+  {
+    "name": "T-Shirt (red)",
+    "productCode": 6258,
+    "color": {
+      "name": "Black",
+      "id": "905d96de-30d1-4a16-aafb-f85790d77898",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        },
+        "time": {
+          "hour": 10,
+          "minute": 2,
+          "second": 11,
+          "nano": 343000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        },
+        "time": {
+          "hour": 10,
+          "minute": 2,
+          "second": 11,
+          "nano": 343000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 60000.0,
+    "discount": 5.0,
+    "imgUrl": "src/main/resources/photos/T-ShirtRed.png",
+    "id": "99ba0191-fcc3-49ed-ac92-3ba537d1a773",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    }
+  },
+  {
+    "name": "Cap",
+    "productCode": 3770,
+    "color": {
+      "name": "Green",
+      "id": "b727e887-eb74-4afd-8193-7ebe38081809",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 14
+        },
+        "time": {
+          "hour": 8,
+          "minute": 19,
+          "second": 26,
+          "nano": 653000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 14
+        },
+        "time": {
+          "hour": 8,
+          "minute": 19,
+          "second": 26,
+          "nano": 653000000
+        }
+      }
+    },
+    "size": "M",
+    "price": 20000.0,
+    "discount": 10.0,
+    "imgUrl": "src/main/resources/photos/CapGreen.png",
+    "id": "7cb9d4a3-1d68-463d-bf18-c7650d51ffff",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 10,
+        "minute": 2,
+        "second": 11,
+        "nano": 343000000
+      }
+    }
+  },
+  {
+    "name": "Sweater",
+    "productCode": 8461,
+    "color": {
+      "name": "Green",
+      "id": "33223b3c-cbe2-49fc-afc3-a99dc9fcd0ba",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 13
+        },
+        "time": {
+          "hour": 19,
+          "minute": 12,
+          "second": 36,
+          "nano": 652000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 13
+        },
+        "time": {
+          "hour": 19,
+          "minute": 12,
+          "second": 36,
+          "nano": 652000000
+        }
+      }
+    },
+    "size": "M",
+    "price": 45000.0,
+    "discount": 10.0,
+    "imgUrl": "src/main/resources/photos/GreenSweater.png",
+    "id": "e2e53035-9d93-4828-a43f-ff7ca7effcb7",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 13
+      },
+      "time": {
+        "hour": 19,
+        "minute": 12,
+        "second": 36,
+        "nano": 652000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 13
+      },
+      "time": {
+        "hour": 19,
+        "minute": 12,
+        "second": 36,
+        "nano": 652000000
+      }
+    }
+  },
+  {
+    "name": "Bag",
+    "productCode": 6714,
+    "color": {
+      "name": "Black",
+      "id": "56d66af2-59e1-44b1-a0dd-238d28e29fd3",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 21
+        },
+        "time": {
+          "hour": 17,
+          "minute": 59,
+          "second": 19,
+          "nano": 505000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 21
+        },
+        "time": {
+          "hour": 17,
+          "minute": 59,
+          "second": 19,
+          "nano": 505000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 150000.0,
+    "discount": 5.0,
+    "imgUrl": "src/main/resources/photos/BlackBag.png",
+    "id": "343c07e9-1910-4bc0-894d-dba618db19f6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 21
+      },
+      "time": {
+        "hour": 17,
+        "minute": 59,
+        "second": 19,
+        "nano": 505000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 21
+      },
+      "time": {
+        "hour": 17,
+        "minute": 59,
+        "second": 19,
+        "nano": 505000000
+      }
+    }
+  },
+  {
+    "name": "Shoe",
+    "productCode": 8634,
+    "color": {
+      "name": "Grey",
+      "id": "73724805-83ea-41c7-92de-71ea968d8885",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 21
+        },
+        "time": {
+          "hour": 18,
+          "minute": 2,
+          "second": 41,
+          "nano": 297000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 21
+        },
+        "time": {
+          "hour": 18,
+          "minute": 2,
+          "second": 41,
+          "nano": 297000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 90000.0,
+    "discount": 0.0,
+    "imgUrl": "src/main/resources/photos/GreyShoe.png",
+    "id": "394369a5-39ea-4d80-86c3-0ecb507d9f8b",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 21
+      },
+      "time": {
+        "hour": 18,
+        "minute": 2,
+        "second": 41,
+        "nano": 297000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 21
+      },
+      "time": {
+        "hour": 18,
+        "minute": 2,
+        "second": 41,
+        "nano": 297000000
+      }
+    }
+  },
+  {
+    "name": "Jeans",
+    "productCode": 9388,
+    "color": {
+      "name": "Blue",
+      "id": "2e9ff9b6-3952-4af3-b3e8-13701d311df0",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 29,
+          "second": 37,
+          "nano": 486000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 29,
+          "second": 37,
+          "nano": 486000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 90000.0,
+    "discount": 0.0,
+    "imgUrl": "src/main/resources/photos/BlueJeans.png",
+    "id": "c5c89bdd-6192-41c0-bcb2-ca0403a89621",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 29,
+        "second": 37,
+        "nano": 486000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 29,
+        "second": 37,
+        "nano": 486000000
+      }
+    }
+  },
+  {
+    "name": "Jumper",
+    "productCode": 2085,
+    "color": {
+      "name": "Blue",
+      "id": "53e3be1c-301c-4a5e-87ff-4dd57c50bee5",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 32,
+          "second": 47,
+          "nano": 531000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 32,
+          "second": 47,
+          "nano": 531000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 150000.0,
+    "discount": 5.0,
+    "imgUrl": "src/main/resources/photos/GreyJumper.png",
+    "id": "e81c2a74-fa13-4469-a5d4-07c4062cb4c5",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 32,
+        "second": 47,
+        "nano": 531000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 32,
+        "second": 47,
+        "nano": 531000000
+      }
+    }
+  },
+  {
+    "name": "Black Shirt",
+    "productCode": 4750,
+    "color": {
+      "name": "Black",
+      "id": "bd42b9b1-0e1a-4a52-8c0e-4852fd0d8a71",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 35,
+          "second": 4,
+          "nano": 782000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 35,
+          "second": 4,
+          "nano": 782000000
+        }
+      }
+    },
+    "size": "M",
+    "price": 80000.0,
+    "discount": 0.0,
+    "imgUrl": "src/main/resources/photos/BlackShirt.png",
+    "id": "ccbd7fa4-dbd6-4dae-8d5d-8f76dbb208ca",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 35,
+        "second": 4,
+        "nano": 782000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 35,
+        "second": 4,
+        "nano": 782000000
+      }
+    }
+  },
+  {
+    "name": "Woman\u0027s Coat",
+    "productCode": 4535,
+    "color": {
+      "name": "Brown",
+      "id": "e2d06e2b-db43-4c74-a903-8fbfb894289c",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 39,
+          "second": 30,
+          "nano": 933000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 39,
+          "second": 30,
+          "nano": 933000000
+        }
+      }
+    },
+    "size": "M",
+    "price": 500000.0,
+    "discount": 10.0,
+    "imgUrl": "src/main/resources/photos/Woman\u0027sCoat.png",
+    "id": "25f68670-465b-42e0-95b1-97e3ae08967a",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 39,
+        "second": 30,
+        "nano": 933000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 39,
+        "second": 30,
+        "nano": 933000000
+      }
+    }
+  },
+  {
+    "name": "Black White Sneakers",
+    "productCode": 8698,
+    "color": {
+      "name": "Black White",
+      "id": "232635f1-c129-48c7-a23e-b046050e139d",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 42,
+          "second": 1,
+          "nano": 557000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 42,
+          "second": 1,
+          "nano": 557000000
+        }
+      }
+    },
+    "size": "M",
+    "price": 100000.0,
+    "discount": 0.0,
+    "imgUrl": "src/main/resources/photos/Black White Sneakers.png",
+    "id": "9579b705-b750-4f99-91f6-65d7aca4a67d",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 42,
+        "second": 1,
+        "nano": 557000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 42,
+        "second": 1,
+        "nano": 557000000
+      }
+    }
+  },
+  {
+    "name": "Dark Blue Hoodie",
+    "productCode": 8708,
+    "color": {
+      "name": "Dark Blue",
+      "id": "c83e63c7-4d62-49b7-948a-4bf22a35c301",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 44,
+          "second": 55,
+          "nano": 656000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 12,
+          "day": 23
+        },
+        "time": {
+          "hour": 16,
+          "minute": 44,
+          "second": 55,
+          "nano": 656000000
+        }
+      }
+    },
+    "size": "L",
+    "price": 150000.0,
+    "discount": 0.0,
+    "imgUrl": "src/main/resources/photos/DarkBlueHoodie.png",
+    "id": "74af38d9-51d5-498f-bf6c-b23bf3c5c669",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 44,
+        "second": 55,
+        "nano": 656000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 23
+      },
+      "time": {
+        "hour": 16,
+        "minute": 44,
+        "second": 55,
+        "nano": 656000000
+      }
+    }
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "admin",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3a2e7be2-dca9-496d-ac3f-8931b67cf2d6",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 16,
+        "second": 40,
+        "nano": 444000000
+      }
+    }
+  },
+  {
+    "fullName": "Asadbek Halimjonov",
+    "username": "b",
+    "password": "1",
+    "balance": 640000.0,
+    "role": "CUSTOMER",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "fab8761a-79ac-4fa1-8fcf-361244ce77f8",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 31,
+        "second": 43,
+        "nano": 458000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 9,
+        "minute": 31,
+        "second": 43,
+        "nano": 458000000
+      }
+    }
+  },
+  {
+    "fullName": "Abdulaziz",
+    "username": "aziz",
+    "password": "12345",
+    "balance": 1000000.0,
+    "role": "CUSTOMER",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "4bd7dc7d-9816-40e1-a750-93f6ded0cbef",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+      },
+      "time": {
+        "hour": 15,
+        "minute": 13,
+        "second": 49,
+        "nano": 348000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+      },
+      "time": {
+        "hour": 15,
+        "minute": 13,
+        "second": 49,
+        "nano": 348000000
+      }
+    }
+  },
+  {
+    "fullName": "Nodirbek",
+    "username": "nodirbek",
+    "password": "12345",
+    "balance": 0.0,
+    "role": "CUSTOMER",
+    "isActive": true,
+    "myCart": [],
+    "clothPage": 0,
+    "id": "3c08ca9a-ceaa-4cc8-aa4b-2823ba3cb175",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+      },
+      "time": {
+        "hour": 16,
+        "minute": 45,
+        "second": 52,
+        "nano": 189000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+      },
+      "time": {
+        "hour": 16,
+        "minute": 45,
+        "second": 52,
+        "nano": 189000000
+      }
+    }
+  }
+]

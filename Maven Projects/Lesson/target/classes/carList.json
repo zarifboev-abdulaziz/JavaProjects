@@ -1,0 +1,17 @@
+[
+  {
+   "id" : 1,
+    "brand" : "Chevrolet",
+    "model" : "Camaro"
+  },
+  {
+    "id" : 2,
+    "brand" : "Chevrolet",
+    "model" : "malibu"
+  },
+  {
+    "id" : 3,
+    "brand" : "BMW",
+    "model" : "X7"
+  }
+]

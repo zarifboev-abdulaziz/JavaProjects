@@ -1,0 +1,36 @@
+spring:
+  datasource:
+   url: jdbc:postgresql://localhost:5432/continent_db
+   password: root123
+   username: postgres
+  application:
+    name: continent
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    init:
+      mode: never
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
+server:
+  port: 8090
+
+springfox:
+  documentation:
+    swaggerUi:
+      baseUrl: /api-documentation
+    openApi:
+      v3:
+        path: /api-documentation/v3/api-docs
+    swagger:
+      v2:
+        path: /api-documentation/v2/api-docs
+
+#  eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
+#  spring.cloud.config.enabled=false
+#  eureka.instance.prefer-ip-address=true
+#  eureka.instance.hostname=localhost
+
+#spring.mvc.pathmatch.matching-strategy

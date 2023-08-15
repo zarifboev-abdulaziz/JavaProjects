@@ -1,0 +1,42 @@
+class - User
+//fieldlar
+int id;
+String fullName;
+Status role;
+List<AttoKarta> meningKartalarim
+
+
+
+//constructor
+//Getter and Setter
+//to String
+-------------------------------------------------
+
+Interface - Userservice, (class-UserServiceImpl)
+List<User> UserList;
+List<AttoKarta> attokartaList;
+List<AttoKarta> meningKartalarim;
+--------------------------------------------------------------
+1.login()
+  Ro'yxatdan o'tish
+--------------------------------------------------------------
+2.
+Hisobni to'ldirish()
+Karta qo'shish()
+Kartani o'chirish()
+Tariflar()
+Balansni ko'rish()
+Profilim()
+CHiqish()
+
+-------------------------------------------------class - AttoKarta
+//Fieldlari
+int id;
+String name;
+String cardNumber;
+double balance;
+-------------------------------------------------
+Enum - Status
+TALABA, OQUVCHI, PENSIONER, AHOLI,ADMIN
+
+

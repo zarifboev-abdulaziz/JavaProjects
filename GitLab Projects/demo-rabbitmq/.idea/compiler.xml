@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="producer-service" />
+        <module name="consumer-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="8" />
+      <module name="app-continent" target="8" />
+      <module name="app-continent (1)" target="8" />
+      <module name="clients" target="8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="wrapper" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="app-continent" options="-parameters" />
+      <module name="app-continent (1)" options="-parameters" />
+      <module name="clients" options="-parameters" />
+      <module name="consumer-service" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="producer-service" options="-parameters" />
+    </option>
+  </component>
+</project>
